@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/my_portfolio/static/css/main.8b5f0c3e.chunk.css",
-    "main.js": "/my_portfolio/static/js/main.eea7b495.chunk.js",
-    "main.js.map": "/my_portfolio/static/js/main.eea7b495.chunk.js.map",
-    "runtime-main.js": "/my_portfolio/static/js/runtime-main.480233a7.js",
-    "runtime-main.js.map": "/my_portfolio/static/js/runtime-main.480233a7.js.map",
-    "static/js/2.8d207610.chunk.js": "/my_portfolio/static/js/2.8d207610.chunk.js",
-    "static/js/2.8d207610.chunk.js.map": "/my_portfolio/static/js/2.8d207610.chunk.js.map",
-    "static/js/3.71ec359f.chunk.js": "/my_portfolio/static/js/3.71ec359f.chunk.js",
-    "static/js/3.71ec359f.chunk.js.map": "/my_portfolio/static/js/3.71ec359f.chunk.js.map",
-    "index.html": "/my_portfolio/index.html",
-    "static/css/main.8b5f0c3e.chunk.css.map": "/my_portfolio/static/css/main.8b5f0c3e.chunk.css.map",
-    "static/js/2.8d207610.chunk.js.LICENSE.txt": "/my_portfolio/static/js/2.8d207610.chunk.js.LICENSE.txt",
-    "static/media/avatar-color-bg.9be98bd8.jpg": "/my_portfolio/static/media/avatar-color-bg.9be98bd8.jpg",
-    "static/media/logo.6ce24c58.svg": "/my_portfolio/static/media/logo.6ce24c58.svg"
+    "main.css": "/static/css/main.8b5f0c3e.chunk.css",
+    "main.js": "/static/js/main.eea7b495.chunk.js",
+    "main.js.map": "/static/js/main.eea7b495.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.66cd387e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.66cd387e.js.map",
+    "static/js/2.8d207610.chunk.js": "/static/js/2.8d207610.chunk.js",
+    "static/js/2.8d207610.chunk.js.map": "/static/js/2.8d207610.chunk.js.map",
+    "static/js/3.71ec359f.chunk.js": "/static/js/3.71ec359f.chunk.js",
+    "static/js/3.71ec359f.chunk.js.map": "/static/js/3.71ec359f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.8b5f0c3e.chunk.css.map": "/static/css/main.8b5f0c3e.chunk.css.map",
+    "static/js/2.8d207610.chunk.js.LICENSE.txt": "/static/js/2.8d207610.chunk.js.LICENSE.txt",
+    "static/media/avatar-color-bg.9be98bd8.jpg": "/static/media/avatar-color-bg.9be98bd8.jpg",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.480233a7.js",
+    "static/js/runtime-main.66cd387e.js",
     "static/js/2.8d207610.chunk.js",
     "static/css/main.8b5f0c3e.chunk.css",
     "static/js/main.eea7b495.chunk.js"
